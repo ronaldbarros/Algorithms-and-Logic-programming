@@ -8,19 +8,19 @@ public class Exercise06 {
 		
 		float salary, sl_week;
 		int hours;
-		Scanner entry = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		
 		System.out.print("How many hours did you work this week? ");
-		hours = entry.nextInt();
+		hours = input.nextInt();
 		
 		System.out.print("How much do you earn per hour? ");
-		salary = entry.nextFloat();
+		salary = input.nextFloat();
 		
 		sl_week = salary * hours;
 		
 		System.out.print("Your earnings this week are " + sl_week + " dollars");
 		
-		entry.close();
+		input.close();
 
 	}
 

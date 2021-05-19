@@ -1,4 +1,4 @@
-package com.ronaldbarros.section06;
+package com.ronaldbarros.section06.conditional_operators;
 
 import java.util.Scanner;
 
