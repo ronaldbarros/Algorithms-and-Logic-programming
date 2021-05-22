@@ -26,6 +26,7 @@ public class Exercise08 {
 			System.out.println(number + " is odd");
 		}
 		
+		input.close();
 	}
 
 }
