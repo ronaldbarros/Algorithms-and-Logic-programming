@@ -10,8 +10,8 @@ public class Exercise01 {
 	public static void main(String[] args) {
 		
 		int max, min;
-		ArrayList<Integer> vector = new ArrayList<Integer>();
-		ArrayList<Integer> even = new ArrayList<Integer>();
+		ArrayList<Integer> vector = new ArrayList<>();
+		ArrayList<Integer> even = new ArrayList<>();
 		
 		Scanner input = new Scanner(System.in);
 		
