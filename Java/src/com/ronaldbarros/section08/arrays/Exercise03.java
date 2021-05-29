@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercise03 {
     public static void main(String[] args) {
 
-        int [] vector = new int[10];
+        int[] vector = new int[10];
 
         Scanner input = new Scanner(System.in);
 
